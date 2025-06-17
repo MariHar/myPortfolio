@@ -1,0 +1,67 @@
+#mainDiv{
+	background: rgb(5, 9, 38);
+	width: 100%;
+	height: 1000px;
+}
+
+
+#p1{
+	font-size: 15px ;
+	color: rgb(30, 102, 217);
+	text-align: center;
+	padding-top: 80px;
+}
+
+#p2{
+	font-family: cursive;
+	font-size: 45px;
+	color: white;
+	text-align: center;
+
+}
+#p3{
+	font-size: 25px;
+	color: white;
+	text-align: center;
+}
+#div2{
+	width: 400px;
+	margin-left: 35%;
+	justify-content: space-around;
+	display: flex;
+	
+}
+#divSmall1{
+	background: rgb(0, 79, 204);
+	width: 150px;
+	height: 44px;
+	
+}
+#divSmall2{
+	border: solid 2px rgb(0, 79, 204);
+	width: 150px;
+	height: 44px;
+}
+#footerDiv{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	padding-top: 80px;
+}
+.div1{
+	padding-left:15px ;
+	background: white;
+	width: 250px;
+	height: 250px;
+}
+#div3{
+	padding-left:15px ;
+	background: rgb(0, 79, 204);
+	width: 250px;
+	height: 250px;
+}
+.image{
+	width: 40px;
+	height: 40px;
+	margin-top: 25px ;
+}
